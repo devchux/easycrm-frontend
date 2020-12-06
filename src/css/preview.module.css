@@ -1,0 +1,16 @@
+.subtopic {
+    text-transform: uppercase;
+    font-size: 1.2rem;
+}
+.preview {
+    width: 85%;
+    margin: 4em auto;
+    border: 2px solid #ffffff;
+    padding: 2em 1em;
+    border-radius: 10px;
+}
+.subcontent {
+    font-weight: normal;
+    font-size: 1.2rem;
+    line-height: 1.8;
+}
