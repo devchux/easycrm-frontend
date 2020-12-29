@@ -34,21 +34,7 @@ function Credits() {
                         </div>
                     </div>
                 </div>
-                <div className="items">
-                    <a href="">
-                        <div className="item row">
-                            <div className="col-4">
-                                <p>Imam Shebbi</p>
-                            </div>
-                            <div className="col-4">
-                                <p>500,00</p>
-                            </div>
-                            <div className="col-4">
-                                <p>Date Due</p>
-                            </div>
-                        </div>
-                    </a>
-                </div>
+               
             </div>
 
             

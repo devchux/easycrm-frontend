@@ -37,24 +37,7 @@ function Assets() {
                         </div>
                     </div>
                 </div>
-                <div className="items">
-                    <a href="">
-                        <div className="item row">
-                            <div className="col-4">
-                                <p>Name</p>
-                            </div>
-                            <div className="col-3">
-                                <p>11/12/2020</p>
-                            </div>
-                            <div className="col-2">
-                                <p>2</p>
-                            </div>
-                            <div className="col-3">
-                                <p>Purchased By</p>
-                            </div>
-                        </div>
-                    </a>
-                </div>
+                
             </div>
 
             

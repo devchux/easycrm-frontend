@@ -21,37 +21,7 @@ function Leads() {
                     </div>
                 </div>
             </form>
-            <div className="lists">
-                <div className="header py-3">
-                    <div className="row">
-                        <div className="col-5">
-                            <p>Name</p>
-                        </div>
-                        <div className="col-4">
-                            <p>Company</p>
-                        </div>
-                        <div className="col-3">
-                            <p>Status</p>
-                        </div>
-                    </div>
-                </div>
-                <div className="items">
-                    <a href="">
-                        <div className="item row">
-                            <div className="col-5">
-                                <p>Name</p>
-                            </div>
-                            <div className="col-4">
-                                <p>Company</p>
-                            </div>
-                            <div className="col-3">
-                                <p>Status</p>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-
+            
             
             <LeadModal />
         </main>
